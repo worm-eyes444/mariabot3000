@@ -35,6 +35,7 @@ obj/
 # --- Local / personal data ---
 personality.txt
 TODO.md
+.markdownlint.yaml
 
 # --- Editor / OS noise ---
 .DS_Store
