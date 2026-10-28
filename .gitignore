@@ -1,0 +1,41 @@
+# --- Secrets & credentials ---
+.env
+.env.*
+!.env.example
+.auth/
+.steam-profile/
+storageState.json
+secrets.json
+*.pfx
+*.pem
+*.key
+appsettings.*.local.json
+
+# --- Playwright artifacts ---
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+trace-*.zip
+*.trace.zip
+*.trace
+*.har
+screenshots/
+
+# --- .NET build output ---
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+*.user
+*.suo
+*.fsproj.user
+
+# --- Local / personal data ---
+personality.txt
+
+# --- Editor / OS noise ---
+.DS_Store
+.idea/
+.vscode/
