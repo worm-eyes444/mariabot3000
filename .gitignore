@@ -34,6 +34,7 @@ obj/
 
 # --- Local / personal data ---
 personality.txt
+TODO.md
 
 # --- Editor / OS noise ---
 .DS_Store
